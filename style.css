@@ -53,4 +53,6 @@ footer {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-template-rows: 1fr 1fr 1fr 1fr;
+    background-color: #667153;
+    border-radius: 2rem;
 }
